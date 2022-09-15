@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DreadnoughtSchool/static/css/main.ce70bf03.css",
+    "main.js": "/DreadnoughtSchool/static/js/main.3b3edd02.js",
+    "static/media/p4.jpg": "/DreadnoughtSchool/static/media/p4.75ab3becf6d4dc71be9d.jpg",
+    "static/media/p1.jpg": "/DreadnoughtSchool/static/media/p1.68385f56eeb50410e656.jpg",
+    "static/media/p3.jpg": "/DreadnoughtSchool/static/media/p3.a2bd8809ecbf934a1839.jpg",
+    "static/media/p6.jpg": "/DreadnoughtSchool/static/media/p6.c46dccd6d880f126b5a2.jpg",
+    "static/media/logo.png": "/DreadnoughtSchool/static/media/logo.c9d6f64f15ad0deaa003.png",
+    "static/media/card3.jpg": "/DreadnoughtSchool/static/media/card3.b239feb4c9819971c254.jpg",
+    "static/media/card5.jpg": "/DreadnoughtSchool/static/media/card5.5c3fa02dc8d6946078e0.jpg",
+    "static/media/card4.jpg": "/DreadnoughtSchool/static/media/card4.420fd20866a6a393c280.jpg",
+    "static/media/card7.jpg": "/DreadnoughtSchool/static/media/card7.16e9f3701d8580e42b2b.jpg",
+    "static/media/card2.jpg": "/DreadnoughtSchool/static/media/card2.bc24f940825e2ded169e.jpg",
+    "static/media/card6.jpg": "/DreadnoughtSchool/static/media/card6.f37d3d0a0670409d230b.jpg",
+    "static/media/search.png": "/DreadnoughtSchool/static/media/search.3cc7ac40a2708e47a15a.png",
+    "index.html": "/DreadnoughtSchool/index.html",
+    "main.ce70bf03.css.map": "/DreadnoughtSchool/static/css/main.ce70bf03.css.map",
+    "main.3b3edd02.js.map": "/DreadnoughtSchool/static/js/main.3b3edd02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce70bf03.css",
+    "static/js/main.3b3edd02.js"
+  ]
+}
